@@ -191,7 +191,7 @@ iptables -X
 **== Задание ==**
 
 Сеть: \
-<img src="../img/materials/part5_network.png" alt="part5_network" width="500"/>
+<img src="img/materials/part5_network.png" alt="part5_network" width="500"/>
 
 ##### Поднять пять виртуальных машин (3 рабочие станции (ws11, ws21, ws22) и 2 роутера (r1, r2))
 
